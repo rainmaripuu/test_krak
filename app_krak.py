@@ -4,3 +4,7 @@ def say_something():
 
 def another_something():
     print('Another')
+
+
+def say_nothing():
+    print('All quiet')
