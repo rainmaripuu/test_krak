@@ -11,4 +11,4 @@ def say_nothing():
 
 
 def division():
-    print(1/0)
+    print(1/1)
