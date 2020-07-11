@@ -8,3 +8,7 @@ def another_something():
 
 def say_nothing():
     print('All quiet')
+
+
+def division():
+    print(1/0)
